@@ -26,7 +26,7 @@ Matricule-se no Curso Gratuito Online de Javascript para iniciantes. âœ“ Com OpÃ
 
 link : https://www.unovacursos.com.br/curso/curso-gratuito-de-javascript-para-iniciantes
 
-## Cursos da Free da Udemy
+## Cursos Free da Udemy
 
 Cursos e tutoriais gratuitos de JavaScript
 
