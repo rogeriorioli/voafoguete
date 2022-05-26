@@ -1,5 +1,6 @@
 # 🚀 VoaFoguete 🚀
-Repositório aberto e colaborativo , que reúne uma coleção de cursos para desenvolvimento pessoal 
+
+Repositório aberto e colaborativo , que reúne uma coleção de cursos GRATUITOS para desenvolvimento pessoal 
 
 ## Como Colaborar
 
