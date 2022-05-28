@@ -8,3 +8,9 @@ Aulas gratuitas do curso de Angular (98% do curso compatível com Angular v7) do
 Aulas compatíveis com Angular v2, v4, v5 e v6 e v7.
 
 link : https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
+
+## Cursos da Free da Udemy
+
+Cursos e tutoriais gratuitos de Angular
+
+link : https://www.udemy.com/pt/topic/angular/free/
