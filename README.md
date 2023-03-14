@@ -1,5 +1,10 @@
 # 🚀 VoaFoguete 🚀
 
+
+
+
+
+
 Repositório aberto e colaborativo , que reúne uma coleção de cursos GRATUITOS para desenvolvimento pessoal 
 
 ## Como Colaborar
@@ -8,14 +13,14 @@ Repositório aberto e colaborativo , que reúne uma coleção de cursos GRATUITO
 
 - Entre na pasta do idiomas depois em cursos, escolha o tema do curso e edite o README.MB com o template abaixo : 
 
-``` 
+<hr/>
 
-## [NOME DO CURSO] 
+## NOME DO CURSO
 
-{{descrição}}
+*descrição*
 
-link : {{link}}
+link : *link*
 
-```
+<hr/>
 
 Faça um pull-request para branch review 
